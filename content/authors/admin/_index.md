@@ -66,9 +66,9 @@ highlight_name: true
 ---
 (STILL IN PROGRESS)
 
-Yuan (Rebecca) Yin is a DPhil candidate at 
+Yuan (Rebecca) Yin is a DPhil candidate at the Mathematical Institute, University of Oxford, associated with St. Hilda's College. Her research interests falls into the area of mathematical biology. In her master’s project supervised by Prof. Jennifer Flegg and Prof. Barry Hughes at the University of Melbourne, she investigated multi-scale mathematical models of infectious disease and developed a framework for the bi-directional linking of the two scales (within-host and population level). In her DPhil project, she will develop new mathematical models of collective cell migration, focusing on the interplay between cells and the extracellular matrix, under the supervision of Prof. Ruth Baker. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
 
 
 
