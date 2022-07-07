@@ -29,7 +29,7 @@ experience:
     location: Melbourne, Australia
     date_start: '2021-11-01'
     date_end: ''
-    description: |2-
+    description: >-
         Responsibilities include:
         
         * Working with a stochastic epidemic model with a house-hold structure to simulate influenza dynamics
@@ -44,7 +44,7 @@ experience:
     location: Melbourne, Australia
     date_start: '2020-03-02'
     date_end: '2022-07-08'
-    description: |2-
+    description: >-
          Tutored subjects:
         
         * MAST10005 Calculus 1
@@ -60,7 +60,7 @@ experience:
     location: Melbourne, Australia
     date_start: '2021-03-01'
     date_end: '2021-12-31'
-    description: |2-
+    description: >-
           Responsibilities include:
         
         * Content and script design
@@ -70,5 +70,5 @@ experience:
 
 
 design:
-  columns: '3'
+  columns: '2'
 ---
