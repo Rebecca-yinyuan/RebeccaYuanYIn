@@ -19,7 +19,7 @@ feature:
   - icon: laptop-code
     icon_pack: fas
     name: Numerical Simulation
-  - icon: atom-simple
+  - icon: <i class="fa-solid fa-atom-simple"></i>
     icon_pack: fab
     name: Mathematical Modelling
   - icon: chart-user
