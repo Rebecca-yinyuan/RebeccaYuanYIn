@@ -27,13 +27,13 @@ education:
   courses:
     - course: DPhil in Applied Maths
       institution: University of Oxford
-      year: 2022-
+      year: 2022 --
     - course: Msc in Applied Maths
       institution: University of Melbourne
-      year: 2020-2021
+      year: 2020 -- 2021
     - course: BSc in Applied Maths
       institution: University of Melbourne
-      year: 2017-2019
+      year: 2017 -- 2019
       
 
 # Social/Academic Networking
@@ -64,9 +64,9 @@ email: 'rebecca.yyyy@outlook.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-(STILL IN PROGRESS)
 
-Yuan (Rebecca) Yin is a DPhil candidate at the Mathematical Institute, University of Oxford, associated with St. Hilda's College. Her research interests falls into the area of mathematical biology. In her master’s project supervised by Prof. Jennifer Flegg and Prof. Barry Hughes at the University of Melbourne, she investigated multi-scale mathematical models of infectious disease and developed a framework for the bi-directional linking of the two scales (within-host and population level). In her DPhil project, she will develop new mathematical models of collective cell migration, focusing on the interplay between cells and the extracellular matrix, under the supervision of Prof. Ruth Baker. 
+Yuan (Rebecca) Yin is a DPhil candidate at the Mathematical Institute, University of Oxford. Her research interests falls into the area of mathematical biology. In her master’s project supervised by Prof. Jennifer Flegg and Prof. Barry Hughes at the University of Melbourne, she investigated multi-scale mathematical models of general infectious diseases. In her DPhil project, she will develop new mathematical models of collective cell migration under the supervision of Prof. Ruth Baker. \\
+Rebecca is interested in a variety of things, including travelling, painting, and photography. She also like watching videos from 'Kurzgesagt – In a Nutshell' and listening to songs by Alec Benjamin. 
 
 
 
