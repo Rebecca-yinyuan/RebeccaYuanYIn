@@ -20,14 +20,12 @@ feature:
     icon_pack: fas
     name: Numerical Simulation
   - icon: atom-simple
-    icon_pack: fas
+    icon_pack: fab
     name: Mathematical Modelling
   - icon: chart-user
-    icon_pack: fas
+    icon_pack: fab
     name: Project Management
-  - icon: comments-question-check
-    icon_pack: fas
-    name: Teaching
+
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
