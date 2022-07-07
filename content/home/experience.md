@@ -1,6 +1,12 @@
 widget: experience
 headless: true  # This file represents a page section.
 
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 40
+
 title: Experience
 
 # Date format
