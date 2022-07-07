@@ -65,7 +65,8 @@ email: 'rebecca.yyyy@outlook.com'
 highlight_name: true
 ---
 
-Yuan (Rebecca) Yin is a DPhil candidate at the Mathematical Institute, University of Oxford. Her research interests falls into the area of mathematical biology. In her master’s project supervised by Prof. Jennifer Flegg and Prof. Barry Hughes at the University of Melbourne, she investigated multi-scale mathematical models of general infectious diseases. In her DPhil project, she will develop new mathematical models of collective cell migration under the supervision of Prof. Ruth Baker. \\
+Yuan (Rebecca) Yin is a DPhil candidate at the Mathematical Institute, University of Oxford. Her research interests falls into the area of mathematical biology. In her master’s project supervised by Prof. Jennifer Flegg and Prof. Barry Hughes at the University of Melbourne, she investigated multi-scale mathematical models of general infectious diseases. In her DPhil project, she will develop new mathematical models of collective cell migration under the supervision of Prof. Ruth Baker. 
+
 Rebecca is interested in a variety of things, including travelling, painting, and photography. She also like watching videos from 'Kurzgesagt – In a Nutshell' and listening to songs by Alec Benjamin. 
 
 
