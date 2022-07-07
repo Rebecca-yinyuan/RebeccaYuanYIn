@@ -20,10 +20,10 @@ feature:
     icon_pack: fas
     name: Numerical Simulation
   - icon: <i class="fa-solid fa-atom-simple"></i>
-    icon_pack: fab
+    icon_pack: far
     name: Mathematical Modelling
   - icon: chart-user
-    icon_pack: fab
+    icon_pack: far
     name: Project Management
 
     
