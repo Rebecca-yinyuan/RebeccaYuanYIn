@@ -1,4 +1,4 @@
-widget: experience
+Widget: experience
 headless: true  # This file represents a page section.
 
 # This file represents a page section.
