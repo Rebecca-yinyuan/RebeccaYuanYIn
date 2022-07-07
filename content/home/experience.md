@@ -36,7 +36,7 @@ experience:
     company: 'University of Melbourne'
     company_url: 'https://www.unimelb.edu.au/'
     location: 'Melbourne, Australia'
-    date_start: ''2020-03-02'
+    date_start: '2020-03-02'
     date_end: '2022-07-08'
     description: >-
          Tutored subjects:
