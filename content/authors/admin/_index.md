@@ -73,4 +73,4 @@ Rebecca is interested in a variety of things, including travelling, painting, an
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download her {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
